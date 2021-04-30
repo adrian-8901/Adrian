@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-[![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaptsand&count_private=true&show_icons=true)](https://github.com/chaptsand)
+[![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrian&count_private=true&show_icons=true)](https://github.com/chaptsand)
 
 ## 🤔 What is doing
 
